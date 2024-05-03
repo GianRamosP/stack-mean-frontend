@@ -1,2 +1,1 @@
-# Ignorar directorio de node_modules en proyectos Node.js
-node_modules/
+node_modules
